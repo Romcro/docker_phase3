@@ -1,4 +1,3 @@
-Voici un exemple de fichier `README.md` détaillé pour votre projet Flask Docker :
 
 ---
 
